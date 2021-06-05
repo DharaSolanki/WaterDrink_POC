@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_choose_gender">ChooseGenderActivity</string>
+    <string name="text_male">पुरुष</string>
+    <string name="text_female">महिला</string>
+    <string name="title_choose_gender">अपना लिंग चुनें</string>
+    <string name="title_choose_weight">अपना वजन चुनें</string>
+    <string name="title_choose_wakeup_time">अपना जागने का समय चुनें</string>
+    <string name="title_choose_sleep_time">अपने सोने का समय चुनें</string>
+    <string name="title_your_daily_intact">आपका दैनिक जल</string>
+    <string name="btn_text_next">अगला</string>
+    <string name="btn_text_start">शुरू</string>
+    <string name="title_activity_choose_weight">ChooseWeight</string>
+    <string name="text_kg">किलोग्राम</string>
+    <string name="text_ml">एमएल</string>
+    <string name="text_add">जोड़ना</string>
+    <string name="text_noti_title">कुछ पानी पिये</string>
+    <string name="title_water">%1$s, %2$s</string>
+    <string name="text_empty_list">पानी पिएं</string>
+    <string name="text_cancel">रद्द करना</string>
+    <string name="title_home">पानी सेवन</string>
+    <string name="text_reminder_interval">अनुस्मारक अंतराल मिनटों में</string>
+    <string name="text_hindi">हिंदी</string>
+
+    <string name="text_english">अंग्रेज़ी</string>
+    <string name="text_arabic">अरबी</string>
+    <string name="text_home">घर</string>
+    <string name="text_setting">स्थापना</string>
+    <string name="text_language">भाषा का चयन करें</string>
+    <string name="title_activity_wakeup">WakeupActivity</string>
+    <string name="title_activity_choose_sleep_time">ChooseSleepTime</string>
+    <string name="title_activity_water_intack" >WaterIntack</string>
+    <string name="title_activity_daily_dashbord">DailyDashbord</string>
+    <string name="app_name" translatable="false">WaterDrink</string>
+</resources>

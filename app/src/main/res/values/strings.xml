@@ -1,0 +1,36 @@
+<resources>
+    <string name="title_activity_choose_gender">ChooseGenderActivity</string>
+    <string name="text_male">Male</string>
+    <string name="text_female">Female</string>
+    <string name="title_choose_gender">Choose Your Gender</string>
+    <string name="title_choose_weight">Choose Your Weight</string>
+    <string name="title_choose_wakeup_time">Choose Your Wakeup Time</string>
+    <string name="title_choose_sleep_time">Choose Your Sleep Time</string>
+    <string name="title_your_daily_intact">Your Daily Water</string>
+    <string name="btn_text_next">Next</string>
+    <string name="btn_text_start">Start</string>
+    <string name="title_activity_choose_weight">ChooseWeight</string>
+    <string name="text_kg">Kg</string>
+    <string name="text_ml">ml</string>
+    <string name="text_add">Add</string>
+    <string name="text_cancel">Cancel</string>
+    <string name="text_empty_list">Drink Water</string>
+    <string name="title_home">Water Intake</string>
+    <string name="text_hindi">Hindi</string>
+    <string name="text_english">English</string>
+    <string name="text_arabic">Arabic</string>
+    <string name="text_home">Home</string>
+    <string name="text_setting">Setting</string>
+    <string name="text_noti_title">Drink some Water</string>
+    <string name="title_water">%1$s, %2$s</string>
+    <string name="text_language">Select Language</string>
+    <string name="text_reminder_interval">Reminder Interval In Minutes</string>
+    <string name="title_activity_wakeup">WakeupActivity</string>
+    <string name="title_activity_choose_sleep_time">ChooseSleepTime</string>
+    <string name="title_activity_water_intack">WaterIntack</string>
+    <string name="title_activity_daily_dashbord">DailyDashbord</string>
+    <string name="app_name" translatable="false">WaterDrink</string>
+    <string name="title_activity_notification_selector">NotificationSelector</string>
+    <string name="title_activity_base">BaseActivity</string>
+
+</resources>
